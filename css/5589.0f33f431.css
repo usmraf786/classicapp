@@ -1,0 +1,16 @@
+
+.otp-input{
+		font-weight: bold;
+		font-size: 20px;
+		text-align: center;
+		letter-spacing: 10px;
+}
+.otp-input::placeholder{
+		font-weight: normal;
+		font-size: 14px;
+		text-align: center;
+		letter-spacing: 1px;
+}
+
+
+/*# sourceMappingURL=5589.0f33f431.css.map*/

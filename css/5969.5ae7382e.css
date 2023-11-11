@@ -1,0 +1,10 @@
+.q-item.q-router-link--active, .q-item--active {
+  color: #FFFFFF !important;
+  background-color: #1477d1;
+  font-weight: bold;
+}
+.q-item.q-router-link--active .q-icon, .q-item--active .q-icon {
+  color: #FFFFFF !important;
+}
+
+/*# sourceMappingURL=5969.5ae7382e.css.map*/
